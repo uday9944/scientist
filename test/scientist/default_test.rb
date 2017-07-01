@@ -1,5 +1,5 @@
 describe Scientist::Default do
-  before do
+  before do fvvxrcyhbuh
     @ex = Scientist::Default.new "default"
   end
 
